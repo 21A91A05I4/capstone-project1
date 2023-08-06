@@ -7,8 +7,8 @@
 		.dsn{
 			height: 50px;
 			width: 1500px;
-			margin-top: 10px;
 			margin: 10px;
+			margin-top: 0px;
 			font-weight: bold;
 			font-size: 20px;
 			background-color: white;
@@ -17,10 +17,11 @@
 
 		#dsg{ position: relative;
 			left: 200px;
-			top: 50px;
+			top: 25px;
 			margin: 10px;
+			text-shadow: 3px 3px 20px whitesmoke;
 			font-weight: bold;
-			font-size: 40px;
+			font-size: 35px;
 			display: inline;
 		}
 		.bar1, .bar2, .bar3{
@@ -30,7 +31,7 @@
 			margin-top: 0px;
 			margin-right: 50px;
 			margin-bottom: 0px;
-			font-size: 10px;
+			font-size: 5px;
 			float: right;
 		}
 		.back{
@@ -48,17 +49,20 @@
 			height: 400px;
 			background-color: darkolivegreen;
 			margin-left: 150px;
+			box-shadow: 1px 1px 20px skyblue;
 		}
 		.arch1{
 			width: 1200px;
 			height: 700px;
 			background-color: darkolivegreen;
 			margin-left: 150px;
+			box-shadow: 1px 1px 5px goldenrod;
 		}
 		.box{
-			height: 800px;
+			height: 600px;
 			width: 1500px;
 			background-color: #c19434;
+			box-shadow: 2px 2px 20px skyblue;
 		}
 		#b1{
 			height: 500px;
@@ -68,6 +72,7 @@
 			top: 50px;
 			float: left;
 			background-color: white;
+			box-shadow: 2px 2px 20px skyblue;
 		}
 		#icon{
 			height: 500px;
@@ -86,6 +91,7 @@
 			background-image: url('../images/i5.jpg');
 			background-repeat: no-repeat;
 			background-size: cover;
+			box-shadow: 2px 2px 20px skyblue;
 
 		}
 		#i5{
@@ -96,6 +102,7 @@
 			background-image: url('../images/i4.jpg');
 			background-repeat: no-repeat;
 			background-size: cover;
+			box-shadow: 2px 2px 20px skyblue;
 		}
 		#i6{
 			height: 250px;
@@ -105,6 +112,7 @@
 			background-image: url('../images/i7.jpg');
 			background-repeat: no-repeat;
 			background-size: cover;
+			box-shadow: 2px 2px 20px skyblue;
 		}
 		#i7{
 			height: 250px;
@@ -114,6 +122,7 @@
 			background-image: url('../images/i6.jpg');
 			background-repeat: no-repeat;
 			background-size: cover;
+			box-shadow: 2px 2px 20px skyblue;
 		}
 		
 		#img{
@@ -152,6 +161,7 @@
 			left: 80px;
 			right: 70px;
 			font-size: 20px;
+			text-shadow: 1px 1px 10px whitesmoke;
 		}
 		#h{
 			color: goldenrod;
@@ -160,6 +170,7 @@
 			bottom: 30px;
 			left: 100px;
 			right: 50px;
+			text-shadow: 2px 2px 20px whitesmoke;
 		}
 		#wr1{
 			color: goldenrod;
@@ -170,6 +181,7 @@
 			left: 80px;
 			right: 70px;
 			font-size: 20px;
+			text-shadow: 1px 1px 10px whitesmoke;
 		}
 		#h11{
 			color: goldenrod;
@@ -178,6 +190,7 @@
 			bottom: 30px;
 			left: 100px;
 			right: 50px;
+			text-shadow: 2px 2px 20px whitesmoke;
 		}
 		#head{
 			color: white;
@@ -186,6 +199,7 @@
 			top: 150px;
 			right: 150px;
 			font-size: 90px;
+			text-shadow: 3px 3px 20px brown;
 		}
 
 		#mat{
@@ -211,6 +225,8 @@
 			top: 60px;
 			left: 70px;
 			float: left;
+			border-radius: 3px;
+			box-shadow: 2px 2px 20px skyblue;
 		}
 		#h2{
 			width: 430px;
@@ -222,6 +238,8 @@
 			top: 60px;
 			float: right;
 			margin-right: 100px;
+			border-radius: 3px;
+			box-shadow: 1px 1px 20px skyblue;
 		}
 		#h3{
 			width: 430px;
@@ -232,26 +250,32 @@
 			position: relative;
 			top: 60px;
 			right: 20px;
+			border-radius: 3px;
 			float: right;
+			box-shadow: 1px 1px 20px skyblue;
 
 		}
 		#dream{
 			color: darkolivegreen;
 			font-size: 50px;
 			margin-left: 600px;
+			text-shadow: 1px 1px 20px;
 		}
 		#des{
 			color: darkolivegreen;
 			font-size: 50px;
 			margin-left: 600px;
+			text-shadow: 2px 2px 20px;
 		}
-		#p1{
-			color: black;
-			font-weight: bold;
-			margin-left: 400px;
-			font-size: 20px;
-			text-align: justify;
-			margin-bottom: 100px;
+		#p1 {
+   			 color: black;
+		    font-weight: bold;
+ 			margin-left: 300px;
+			 font-size: 20px;
+   			 text-align: justify;
+   			 word-spacing: 15px;
+   			 margin-bottom: 100px;
+   			 text-shadow: 2px 2px 20px darkgrey;
 		}
 		#p2{
 			width: 1500px;
@@ -266,28 +290,33 @@
 			margin: 0px;
 			top: 120px;
 			left: 200px;
+			text-shadow: 1px 1px 20px skyblue;
 		}
 		#p3{
 			color: grey;
 			position: relative;
-			left: 350px;
+			left: 200px;
 			top: 100px;
 			font-size: 40px;
 			display: block;
 			float: left;
+			text-shadow: 1px 1px 20px skyblue;
 		}
 		#i1{
 			height: 400px;
-			width: 600px;
+			width: 700px;
 			position: relative;
-			left: 400px;
+			left: 277px;
 			top: 0px;
-			margin: 0px;
+			margin-bottom: 0px;
+			box-shadow: 1px 1px 20px skyblue;
 		}
 		#i2{
-			height: 900px;
+			height: 800px;
 			width: 1500px;
-			margin: 0px;
+			
+			margin-top: 0px;
+			box-shadow: 3px 3px 20px skyblue;
 		}
 		#i3{
 			height: 170px;
@@ -298,6 +327,7 @@
 			background-size: cover;
 			background-repeat: no-repeat;
 			position: relative;
+			box-shadow: 3px 3px 20px whitesmoke;
 			left: 100px;
 			top: 100px;
 		}
@@ -311,6 +341,7 @@
 			padding-top: 10px;
 			margin-bottom: 0px;
 			background-color: lightyellow;
+			text-shadow: 2px 2px 20px skyblue;
 		}
 		#p6{
 			height: 200px;
@@ -318,18 +349,30 @@
 			margin-top: 0px;
 			background-color: darkolivegreen;
 		}
+		#p61{
+			height: 200px;
+			width: 1500px;
+			margin-top: 0px;
+			background-color: #333300;
+			position: relative;
+			
+		}
 		#p7{
 			height: 100px;
-			width: cover;
+			width: 1500px;
 			background-color: #333333;
+			font-size: 20px;
+			word-spacing: 15px;
+			text-shadow: 1px 1px 5px skyblue;
 		}
 		#p8{
-			color: darkolivegreen;
+			color: olivegreen;
+			font-size: 25px;
+
 		}
 		#d{
 			color: white;
 			position: relative;
-			left:700px;
 			top: 30px;
 			font-size: 20px;
 		}
@@ -364,64 +407,53 @@
 			margin: 10px;
 			top: 50px;
 			word-spacing: 20px;
-		}
-		#icon2{
-			height: 200px;
-			width: 1500px;
-			background-color: #333300;
-			position: relative;
-			top: 600px;
-			display: block;
-		}
-		#icon3{
-			height: 200px;
-			width: 1500px;
-			background-color: #333300;
-			position: relative;
-			display: block;
+			text-shadow: 1px 1px 20px skyblue;
 		}
 		#wr2{
 			color: white;
-			font-size: 15px;
+			font-size: 18px;
 			position: relative;
-			top: 25px;
-			word-spacing: 15px;
+			top: 35px;
+			word-spacing: 190px;
+			text-shadow: 1px 1px 20px skyblue;
 		}
 		#mis{
 			color: white;
 			font-size: 30px;
-			top: 50px;
+			top: 40px;
 			margin: 15px;
 			margin-left: 0px;
 			position: relative;
-			float: left;
+			text-shadow: 1px 1px 20px skyblue;
+			
 		}
 		#pro{
 			color: white;
 			font-size: 30px;
 			position: relative;
-			margin: 18px;
-			top: 50px;
-
+			margin-left: 200px;
+			top: 40px;
+			text-shadow: 1px 1px 20px skyblue;
 		}
 		#awd{
 			color: white;
 			font-size: 30px;
 			position: relative;
-			margin: 20px;
-			top: 50px;
-
+			margin-left: 200px;
+			top: 40px;
+			text-shadow: 1px 1px 20px skyblue;
 		}
 		#con{
 			color: white;
 			font-size: 30px;
 			position: relative;
-			margin: 15px;
+			margin-left: 230px;
 			margin-right: 0px;
-			top: 50px;
+			top: 40px;
 			right: 10px;
-
+			text-shadow: 1px 1px 20px skyblue;
 		}
 		button{
 			font-size: 20px;
+			box-shadow: 2px 2px 20px skyblue;
 		}
