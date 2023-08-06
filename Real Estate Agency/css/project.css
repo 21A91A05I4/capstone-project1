@@ -1,0 +1,427 @@
+.main{
+			width: 1500px;
+			height: 1200px;
+			background-color: whitesmoke;
+		}
+
+		.dsn{
+			height: 50px;
+			width: 1500px;
+			margin-top: 10px;
+			margin: 10px;
+			font-weight: bold;
+			font-size: 20px;
+			background-color: white;
+			display: inline;
+		}
+
+		#dsg{ position: relative;
+			left: 200px;
+			top: 50px;
+			margin: 10px;
+			font-weight: bold;
+			font-size: 40px;
+			display: inline;
+		}
+		.bar1, .bar2, .bar3{
+			width: 45px;
+			height: 5px;
+			background-color: #333;
+			margin-top: 0px;
+			margin-right: 50px;
+			margin-bottom: 0px;
+			font-size: 10px;
+			float: right;
+		}
+		.back{
+			height: 700px;
+			width: 1500px;
+			background-image:url('../images/h4.jpg') ;
+			background-repeat: no-repeat;
+			background-size: cover;
+			color: white;
+
+
+		}
+		.arch{
+			width: 1200px;
+			height: 400px;
+			background-color: darkolivegreen;
+			margin-left: 150px;
+		}
+		.arch1{
+			width: 1200px;
+			height: 700px;
+			background-color: darkolivegreen;
+			margin-left: 150px;
+		}
+		.box{
+			height: 800px;
+			width: 1500px;
+			background-color: #c19434;
+		}
+		#b1{
+			height: 500px;
+			width: 600px;
+			position: relative;
+			left: 150px;
+			top: 50px;
+			float: left;
+			background-color: white;
+		}
+		#icon{
+			height: 500px;
+			width: 650px;
+			position: relative;
+			top: 50px;
+			right: 150px;
+			background-color: pink;
+			float: right;
+		}
+		#i4{
+			height: 250px;
+			width: 325px;
+			background-color: skyblue;
+			float: left;
+			background-image: url('../images/i5.jpg');
+			background-repeat: no-repeat;
+			background-size: cover;
+
+		}
+		#i5{
+			height: 250px;
+			width: 325px;
+			background-color: pink;
+			float: right;
+			background-image: url('../images/i4.jpg');
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		#i6{
+			height: 250px;
+			width: 325px;
+			background-color: pink;
+			float: left;
+			background-image: url('../images/i7.jpg');
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		#i7{
+			height: 250px;
+			width: 325px;
+			background-color: skyblue;
+			float: right;
+			background-image: url('../images/i6.jpg');
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		
+		#img{
+			width: 600px;
+			height: 400px;
+			background-image: url('../images/sofa.jpg');
+			float: left;
+		}
+		#a1{
+			width: 600px;
+			height: 400px;
+			background-color: #333300;
+			float: right;
+		}
+		#img1{
+			width: 600px;
+			height: 700px;
+			background-color: pink;
+			background-image: url('../images/decor.jpg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			float: left;
+		}
+		#a2{
+			width: 600px;
+			height: 700px;
+			background-color: #333300;
+			float: right;
+		}
+		#wr{
+			color: goldenrod;
+			position: relative;
+			margin-right: 200px;
+			top: 50px;
+			bottom: 50px;
+			left: 80px;
+			right: 70px;
+			font-size: 20px;
+		}
+		#h{
+			color: goldenrod;
+			position: relative;
+			top: 50px;
+			bottom: 30px;
+			left: 100px;
+			right: 50px;
+		}
+		#wr1{
+			color: goldenrod;
+			position: relative;
+			margin-right: 200px;
+			top: 150px;
+			bottom: 50px;
+			left: 80px;
+			right: 70px;
+			font-size: 20px;
+		}
+		#h11{
+			color: goldenrod;
+			position: relative;
+			top: 150px;
+			bottom: 30px;
+			left: 100px;
+			right: 50px;
+		}
+		#head{
+			color: white;
+			float: right;
+			position: relative;
+			top: 150px;
+			right: 150px;
+			font-size: 90px;
+		}
+
+		#mat{
+			color: white;
+			float: right;
+			position: relative;
+			top: 500px;
+			left: 250px;
+			font-size: 25px;
+		}
+		.green{
+			width: 1500px;
+			height: 450px;
+			background-color: darkolivegreen;
+		}
+		#h1{
+			width: 430px;
+			height: 320px;
+			background-image: url('../images/h1.jpg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			position: relative;
+			top: 60px;
+			left: 70px;
+			float: left;
+		}
+		#h2{
+			width: 430px;
+			height: 320px;
+			background-image: url('../images/h2.jpg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			position: relative;
+			top: 60px;
+			float: right;
+			margin-right: 100px;
+		}
+		#h3{
+			width: 430px;
+			height: 320px;
+			background-image: url('../images/h3.jpg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			position: relative;
+			top: 60px;
+			right: 20px;
+			float: right;
+
+		}
+		#dream{
+			color: darkolivegreen;
+			font-size: 50px;
+			margin-left: 600px;
+		}
+		#des{
+			color: darkolivegreen;
+			font-size: 50px;
+			margin-left: 600px;
+		}
+		#p1{
+			color: black;
+			font-weight: bold;
+			margin-left: 400px;
+			font-size: 20px;
+			text-align: justify;
+			margin-bottom: 100px;
+		}
+		#p2{
+			width: 1500px;
+			height: 300px;
+			background-color: whitesmoke;
+		}
+		#p4{
+			color: black;
+			font-weight: bold;
+			font-size: 40px;
+			position: relative;
+			margin: 0px;
+			top: 120px;
+			left: 200px;
+		}
+		#p3{
+			color: grey;
+			position: relative;
+			left: 350px;
+			top: 100px;
+			font-size: 40px;
+			display: block;
+			float: left;
+		}
+		#i1{
+			height: 400px;
+			width: 600px;
+			position: relative;
+			left: 400px;
+			top: 0px;
+			margin: 0px;
+		}
+		#i2{
+			height: 900px;
+			width: 1500px;
+			margin: 0px;
+		}
+		#i3{
+			height: 170px;
+			width: 170px;
+			border-radius: 170px;
+			background-color: pink;
+			background-image: url('../images/i3.jpg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			position: relative;
+			left: 100px;
+			top: 100px;
+		}
+		.foot{
+			width: 1500px;
+			height: 500px;
+		}
+		#p5{
+			height: 200px;
+			width: 1500px;
+			padding-top: 10px;
+			margin-bottom: 0px;
+			background-color: lightyellow;
+		}
+		#p6{
+			height: 200px;
+			width: 1500px;
+			margin-top: 0px;
+			background-color: darkolivegreen;
+		}
+		#p7{
+			height: 100px;
+			width: cover;
+			background-color: #333333;
+		}
+		#p8{
+			color: darkolivegreen;
+		}
+		#d{
+			color: white;
+			position: relative;
+			left:700px;
+			top: 30px;
+			font-size: 20px;
+		}
+		#do{
+			position: relative;
+			left: 100px;
+			top: 50px;
+
+		}
+		#p9{
+			color: darkgrey;
+			font-size: 25px;
+			position: relative;
+			left: 100px;
+			top: 20px;
+			right: 1000px;
+			word-spacing: 10px;
+			text-indent: 40px;
+			text-align: justify;
+		}
+		#icons{
+			color: white;
+			font-size: 20px;
+			position: relative;
+			margin: 10px;
+			top: 70px;
+		}
+		#icons1{
+			color: white;
+			font-size: 20px;
+			position: relative;
+			margin: 10px;
+			top: 50px;
+			word-spacing: 20px;
+		}
+		#icon2{
+			height: 200px;
+			width: 1500px;
+			background-color: #333300;
+			position: relative;
+			top: 600px;
+			display: block;
+		}
+		#icon3{
+			height: 200px;
+			width: 1500px;
+			background-color: #333300;
+			position: relative;
+			display: block;
+		}
+		#wr2{
+			color: white;
+			font-size: 15px;
+			position: relative;
+			top: 25px;
+			word-spacing: 15px;
+		}
+		#mis{
+			color: white;
+			font-size: 30px;
+			top: 50px;
+			margin: 15px;
+			margin-left: 0px;
+			position: relative;
+			float: left;
+		}
+		#pro{
+			color: white;
+			font-size: 30px;
+			position: relative;
+			margin: 18px;
+			top: 50px;
+
+		}
+		#awd{
+			color: white;
+			font-size: 30px;
+			position: relative;
+			margin: 20px;
+			top: 50px;
+
+		}
+		#con{
+			color: white;
+			font-size: 30px;
+			position: relative;
+			margin: 15px;
+			margin-right: 0px;
+			top: 50px;
+			right: 10px;
+
+		}
+		button{
+			font-size: 20px;
+		}
